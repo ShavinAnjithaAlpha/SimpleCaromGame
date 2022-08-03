@@ -4,3 +4,6 @@
 # LOG FILES
 *.log
 logs/
+
+# PYTHON CACHED FILES
+*.*cpython*
